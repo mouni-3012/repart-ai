@@ -1,0 +1,11 @@
+We have used a email validator:
+For that we have to use this package called,
+
+"pip install email-validator"
+
+
+For the database related code, we need this package:
+
+pip install psycopg2-binary
+
+

@@ -1,0 +1,301 @@
+vehicle_make,vehicle_model,vehicle_year,part_name,sample_vin, part_number,category,condition,quality_grade,rarity_level,min_price,max_price,stock,reserved_stock,lead_time_days
+Mercedes,E-Class,2010,Alternator,66596J4SHYFATSSHZ,ALT-ME2010-0,Electrical,Refurbished,B,Limited,351,533,13,0,9
+BMW,3 Series,2010,Power Steering Pump,24UURDPLSVPXGYX32,POW-BM2010-1,Steering,Used,A,Normal,48,90,32,0,8
+Mercedes,GLC,2012,Brake Pads,TF865TB6HPM12SWAR,BRA-ME2012-2,Brakes,Used,C,Rare,117,160,2,0,3
+Mercedes,E-Class,2012,Control Arm,SMJLTRNF0MHWKWCZ7,CON-ME2012-3,Suspension,Used,C,Rare,205,305,11,0,7
+Nissan,Sentra,2019,Timing Belt Kit,FMN6X9V78GJVT6VGR,TIM-NI2019-4,Engine,Refurbished,C,Rare,188,336,6,0,2
+BMW,3 Series,2012,Wheel Bearing,SS5KEESA5SAHLC1MG,WHE-BM2012-5,Drivetrain,New,B,Limited,193,312,34,0,3
+Ford,F-150,2019,Radiator,MXYKK7KDTXNPAU8Y4,RAD-FO2019-6,Cooling,New,B,Limited,412,522,25,0,4
+Kia,Sorento,2018,Tail Light Assembly,PSVPYSFZDFG4V5T5S,TAI-KI2018-7,Lighting,New,B,Normal,268,480,39,0,10
+Chevrolet,Equinox,2017,Battery,HK9JMTUCN52FH5D8F,BAT-CH2017-8,Electrical,Refurbished,A,Normal,193,338,21,0,5
+Ford,Focus,2011,Shock Absorber,N16AFX15JT8U0K1LP,SHO-FO2011-9,Suspension,Used,B,Limited,227,300,31,0,7
+Honda,CR-V,2013,Fuel Pump,WEEDFF9Y1NEZC54CV,FUE-HO2013-10,Fuel,Refurbished,B,Limited,295,527,20,0,7
+Hyundai,Sonata,2011,Battery,S0NJNR6AJSXTGEC96,BAT-HY2011-11,Electrical,Used,B,Rare,337,511,2,0,8
+Nissan,Rogue,2018,Timing Belt Kit,5DFZ9FAVYZB3R3NWL,TIM-NI2018-12,Engine,New,C,Limited,70,104,16,0,7
+Chevrolet,Silverado,2017,Spark Plug Set,8A12CJZUKXJZX1HZ1,SPA-CH2017-13,Engine,New,B,Limited,245,397,23,0,9
+Mercedes,E-Class,2023,Air Filter,EHWG2U2487SL38WHC,AIR-ME2023-14,Engine,New,A,Rare,118,157,37,0,8
+Nissan,Sentra,2023,Wheel Bearing,S3689SX0S40G8AVUG,WHE-NI2023-15,Drivetrain,Used,B,Limited,258,497,33,0,5
+Hyundai,Sonata,2014,Air Filter,V5EKN28L4SR00HS1K,AIR-HY2014-16,Engine,New,C,Normal,396,662,16,0,10
+Chevrolet,Silverado,2011,Battery,CGFE5WHZDEHCNP66F,BAT-CH2011-17,Electrical,New,A,Limited,76,109,12,0,4
+Kia,Optima,2021,Battery,77UEND5YFBUJDML7V,BAT-KI2021-18,Electrical,Refurbished,C,Limited,153,295,6,0,1
+Honda,Pilot,2012,Alternator,PGXLLL0PNHGKAYYFX,ALT-HO2012-19,Electrical,New,B,Limited,234,374,17,0,4
+Mercedes,GLC,2012,Fuel Injector,P2NVBAMBXFXK8H81K,FUE-ME2012-20,Fuel,Used,C,Normal,67,125,4,0,9
+BMW,5 Series,2020,Strut Assembly,XU7YFNRL5S8WXB6CX,STR-BM2020-21,Suspension,Refurbished,B,Rare,310,557,17,0,7
+Ford,Focus,2020,CV Axle,PRMFS6TWEH5S58TNC,CV -FO2020-22,Drivetrain,Used,C,Limited,38,47,27,0,6
+Hyundai,Tucson,2012,Wheel Bearing,GDP8LWWPG1R5N6450,WHE-HY2012-23,Drivetrain,Refurbished,C,Rare,89,149,18,0,7
+Chevrolet,Cruze,2016,Shock Absorber,HU44EERUZCGM3AXDF,SHO-CH2016-24,Suspension,New,C,Normal,190,335,35,0,7
+Mercedes,E-Class,2011,Brake Pads,4N6MLXPURNC5E0PG7,BRA-ME2011-25,Brakes,New,A,Rare,106,145,35,0,8
+Chevrolet,Cruze,2022,Ignition Coil,NYWUCC3U0EYMUGHTS,IGN-CH2022-26,Electrical,New,A,Limited,296,456,30,0,9
+Mercedes,GLC,2015,Strut Assembly,S2HVK5RYZBDMUPXVB,STR-ME2015-27,Suspension,Used,B,Rare,272,437,25,0,7
+Ford,F-150,2010,AC Compressor,GR04M6VM5X1X13GGN,AC -FO2010-28,HVAC,New,A,Normal,369,570,27,0,3
+Toyota,RAV4,2012,Timing Belt Kit,2H3WJ8ZVB569LU71U,TIM-TO2012-29,Engine,Refurbished,C,Limited,199,272,13,0,7
+BMW,3 Series,2021,Starter Motor,C1EVSKRF5T3CFBBJL,STA-BM2021-30,Electrical,New,B,Rare,246,309,28,0,6
+Ford,Focus,2020,Timing Belt Kit,9HW5Z4D6UERD3DWT6,TIM-FO2020-31,Engine,New,B,Rare,239,387,19,0,9
+Ford,Focus,2011,Brake Pads,J09EB9VZVXJSA35HT,BRA-FO2011-32,Brakes,Used,B,Rare,348,488,20,0,3
+Ford,F-150,2014,Power Steering Pump,6G0RKMD4E5WM07GEW,POW-FO2014-33,Steering,Used,C,Normal,420,758,38,0,6
+Nissan,Sentra,2022,Timing Belt Kit,CHJSEAJM6WBGXD0CP,TIM-NI2022-34,Engine,Refurbished,A,Normal,295,381,23,0,4
+BMW,X3,2018,Timing Belt Kit,RXCE7F0JWUCF795M8,TIM-BM2018-35,Engine,Refurbished,A,Rare,355,461,17,0,5
+Honda,Civic,2010,Tail Light Assembly,31CVJSUMNXKHMC13G,TAI-HO2010-36,Lighting,New,C,Limited,249,413,11,0,9
+Nissan,Sentra,2015,Wheel Bearing,3LUH6ZNUCLARF9DLH,WHE-NI2015-37,Drivetrain,Used,A,Limited,150,250,12,0,6
+Mercedes,C-Class,2019,Control Arm,7YC909ZC6XJ6RGF55,CON-ME2019-38,Suspension,Refurbished,B,Limited,366,704,27,0,1
+Hyundai,Tucson,2012,Tail Light Assembly,T75Z1DDMMNDGCRDG7,TAI-HY2012-39,Lighting,Refurbished,C,Limited,72,98,9,0,8
+Chevrolet,Equinox,2021,Tail Light Assembly,CGTX5SMVJ05R51RAK,TAI-CH2021-40,Lighting,Refurbished,C,Normal,404,646,12,0,4
+Hyundai,Sonata,2021,Oxygen Sensor,F2LP9AM2UZLYDL9PD,OXY-HY2021-41,Engine,Refurbished,A,Normal,208,301,15,0,1
+Hyundai,Elantra,2018,Oxygen Sensor,AXL4CT1AN3X9J0DVK,OXY-HY2018-42,Engine,Used,B,Rare,164,247,20,0,6
+Chevrolet,Malibu,2017,Power Steering Pump,UFE94S56SYEYYTG1K,POW-CH2017-43,Steering,Refurbished,B,Rare,196,304,15,0,1
+Kia,Sportage,2011,Brake Rotor,VPD8FEY4E8L14HZFP,BRA-KI2011-44,Brakes,Refurbished,C,Limited,127,253,34,0,8
+Mercedes,C-Class,2018,Muffler,TAR4EG640RMFTXC6X,MUF-ME2018-45,Exhaust,New,C,Rare,336,487,40,0,5
+Toyota,Highlander,2016,AC Compressor,LWA9AT39CCLAMVNJR,AC -TO2016-46,HVAC,New,A,Rare,136,220,13,0,6
+Ford,Focus,2023,Starter Motor,T7JAMNK2GSN6CB897,STA-FO2023-47,Electrical,Used,A,Rare,202,305,33,0,4
+Honda,Accord,2011,Radiator,GANY7URZELSNFB7A0,RAD-HO2011-48,Cooling,Used,A,Limited,200,239,18,0,1
+Chevrolet,Equinox,2019,Control Arm,SSKK00AS3AA87MD1F,CON-CH2019-49,Suspension,Refurbished,C,Normal,328,604,1,0,10
+Mercedes,E-Class,2017,Fuel Pump,APLL89GCXZ8XCNA3M,FUE-ME2017-50,Fuel,Refurbished,B,Normal,107,179,40,0,5
+Mercedes,GLC,2019,Radiator,01Y0DU6VFY6P37NH7,RAD-ME2019-51,Cooling,Refurbished,B,Rare,311,562,37,0,10
+Kia,Sorento,2020,Oxygen Sensor,ZLA9KA2AXHT97SM4B,OXY-KI2020-52,Engine,Used,C,Normal,82,154,3,0,10
+Hyundai,Tucson,2021,Tail Light Assembly,1VL0KSNB140ART482,TAI-HY2021-53,Lighting,Used,A,Rare,284,480,40,0,6
+Mercedes,E-Class,2013,AC Compressor,W98J362CU7VAV4NYR,AC -ME2013-54,HVAC,New,C,Normal,163,229,18,0,8
+Hyundai,Tucson,2010,Brake Rotor,LVXVTS3EZWKJ89T47,BRA-HY2010-55,Brakes,Refurbished,C,Normal,407,519,18,0,2
+BMW,5 Series,2018,Control Arm,ATBAYK7H87LFGHC9P,CON-BM2018-56,Suspension,Used,B,Normal,236,291,10,0,10
+Ford,Explorer,2010,Wheel Bearing,TZTZJJFT4LM92WLXV,WHE-FO2010-57,Drivetrain,New,C,Limited,115,147,31,0,8
+Hyundai,Sonata,2018,Air Filter,ZLLCX8HTUN6Z69MBR,AIR-HY2018-58,Engine,New,C,Normal,163,207,2,0,8
+Kia,Sorento,2020,Strut Assembly,DJLBCBEX082HS8U54,STR-KI2020-59,Suspension,Used,B,Normal,316,409,17,0,3
+Chevrolet,Equinox,2012,Oil Filter,KXU232S0HPKJJEYX1,OIL-CH2012-60,Engine,New,C,Limited,49,86,11,0,9
+Chevrolet,Malibu,2012,Radiator,H8HERV6JVPDFTY7AJ,RAD-CH2012-61,Cooling,Used,C,Normal,52,72,33,0,7
+Hyundai,Tucson,2014,CV Axle,RTT3MU6KP3N9EW739,CV -HY2014-62,Drivetrain,New,C,Normal,389,608,17,0,2
+Nissan,Pathfinder,2023,Power Steering Pump,T33TCAH2HAR79AAWY,POW-NI2023-63,Steering,Refurbished,B,Rare,427,607,17,0,3
+Toyota,RAV4,2013,Headlight Assembly,WH634111A5FVKW1DR,HEA-TO2013-64,Lighting,New,B,Rare,191,360,32,0,6
+Mercedes,GLC,2022,Muffler,BHET9PJ0FNGF2DJS2,MUF-ME2022-65,Exhaust,New,A,Normal,74,133,18,0,5
+Ford,F-150,2011,Oxygen Sensor,EYG78H92JE19ZTPGS,OXY-FO2011-66,Engine,Used,C,Normal,123,218,28,0,3
+BMW,5 Series,2016,Starter Motor,TWA9L12M1PEWE1RCM,STA-BM2016-67,Electrical,New,A,Normal,27,46,38,0,3
+Honda,CR-V,2014,Tail Light Assembly,J1E527W0TPGUTPXTF,TAI-HO2014-68,Lighting,New,C,Rare,364,511,15,0,5
+Mercedes,C-Class,2022,Brake Pads,SYJMWG4KV35V4MGGB,BRA-ME2022-69,Brakes,Refurbished,A,Rare,236,389,3,0,5
+Nissan,Rogue,2010,Control Arm,V3KWJFM024HVE3D3U,CON-NI2010-70,Suspension,Refurbished,C,Rare,417,535,36,0,2
+Chevrolet,Cruze,2018,Air Filter,KYLBA4MNYBMNK8AC0,AIR-CH2018-71,Engine,Refurbished,A,Limited,174,261,1,0,9
+BMW,3 Series,2012,Strut Assembly,RA2WXKMU78ADCHAV2,STR-BM2012-72,Suspension,Refurbished,A,Normal,50,75,36,0,9
+Mercedes,E-Class,2010,Headlight Assembly,VJ36UZ1SAHNU1V6JH,HEA-ME2010-73,Lighting,New,C,Limited,98,123,40,0,3
+Ford,Explorer,2019,Timing Belt Kit,7X3CEK3MKYHA0YZ94,TIM-FO2019-74,Engine,Used,C,Rare,339,540,15,0,6
+Nissan,Rogue,2012,Spark Plug Set,FS8U5T2Y1BFEBWHZT,SPA-NI2012-75,Engine,Used,B,Normal,292,416,33,0,10
+Kia,Sportage,2010,Wheel Bearing,V1MC0PSCC699TE4YC,WHE-KI2010-76,Drivetrain,Used,C,Limited,399,659,18,0,6
+BMW,X3,2011,Water Pump,Y0APG26REG5255Y8V,WAT-BM2011-77,Cooling,New,A,Normal,161,244,37,0,2
+Ford,Explorer,2011,CV Axle,2LK7KGG22B75F57JZ,CV -FO2011-78,Drivetrain,Used,A,Normal,258,435,6,0,1
+Kia,Sportage,2018,Fuel Injector,Z6ZJ8YL9FYHCP2ANA,FUE-KI2018-79,Fuel,Used,C,Limited,346,671,31,0,4
+BMW,5 Series,2022,Starter Motor,44ARAK9LMJGSB1AEC,STA-BM2022-80,Electrical,Used,A,Normal,220,345,3,0,7
+Honda,CR-V,2021,Muffler,J2K949URRW891NMKL,MUF-HO2021-81,Exhaust,New,B,Normal,392,646,9,0,9
+Honda,CR-V,2014,Water Pump,ANTTABF5D519413F7,WAT-HO2014-82,Cooling,New,C,Normal,325,490,31,0,4
+BMW,5 Series,2019,Brake Pads,ME262STP1GGA574N2,BRA-BM2019-83,Brakes,Refurbished,B,Normal,294,428,35,0,1
+Toyota,Highlander,2021,Tail Light Assembly,MNF84CX0ZXD2HMCE8,TAI-TO2021-84,Lighting,Refurbished,C,Rare,290,574,7,0,4
+Kia,Sorento,2020,Radiator,CL1VBELWCTS00GGCN,RAD-KI2020-85,Cooling,Refurbished,C,Limited,193,224,3,0,4
+Hyundai,Elantra,2022,Headlight Assembly,STLDWN1Z4Y4SNVHMN,HEA-HY2022-86,Lighting,New,C,Rare,155,227,14,0,5
+Nissan,Pathfinder,2017,Tail Light Assembly,46SW9RXSCZ451HJLN,TAI-NI2017-87,Lighting,Used,B,Rare,198,285,39,0,4
+Toyota,RAV4,2022,Air Filter,3S33F729X7T5Z50L5,AIR-TO2022-88,Engine,Refurbished,A,Limited,36,56,32,0,7
+Hyundai,Tucson,2010,Radiator,W6FTDJ3CR3355Y9ZL,RAD-HY2010-89,Cooling,New,B,Limited,234,290,9,0,10
+Nissan,Sentra,2020,Starter Motor,DHX1MMH7B7UZXETHJ,STA-NI2020-90,Electrical,New,C,Rare,155,264,15,0,7
+Chevrolet,Cruze,2011,Muffler,P33GF7GV8CXL8NT9K,MUF-CH2011-91,Exhaust,New,B,Normal,80,134,33,0,8
+Hyundai,Elantra,2023,Brake Rotor,08DYL6VHAJVCAHP51,BRA-HY2023-92,Brakes,New,C,Rare,280,420,35,0,4
+Chevrolet,Equinox,2016,Spark Plug Set,KKNY8340T3W8230D5,SPA-CH2016-93,Engine,Used,B,Rare,209,277,1,0,1
+Nissan,Pathfinder,2022,Muffler,F7U0S733146E16KSU,MUF-NI2022-94,Exhaust,Used,C,Rare,69,103,17,0,7
+Ford,Escape,2013,CV Axle,60G7HUK9BCYXMRWG2,CV -FO2013-95,Drivetrain,Refurbished,A,Rare,84,161,20,0,4
+BMW,5 Series,2018,Spark Plug Set,46K96CSKPN654CPSE,SPA-BM2018-96,Engine,New,A,Rare,320,594,27,0,9
+Ford,Focus,2017,Battery,NKVU9G87GE2UW9MMB,BAT-FO2017-97,Electrical,Refurbished,B,Limited,159,211,10,0,3
+Mercedes,GLC,2023,Timing Belt Kit,G0CJTTZ1D7C0DGT7T,TIM-ME2023-98,Engine,Refurbished,A,Normal,78,151,18,0,4
+Nissan,Pathfinder,2018,Control Arm,EUP4EGY0TET8XVNX4,CON-NI2018-99,Suspension,New,A,Limited,239,440,34,0,9
+Kia,Sportage,2013,Control Arm,TZ1V50VAZFE3WAAU7,CON-KI2013-100,Suspension,Used,C,Rare,230,377,38,0,2
+Hyundai,Tucson,2010,Battery,ULEBGY5JA5ZS531JL,BAT-HY2010-101,Electrical,Refurbished,A,Normal,321,452,14,0,4
+BMW,3 Series,2017,Muffler,0XAJ2W81FHW1YHMVL,MUF-BM2017-102,Exhaust,New,B,Rare,131,202,29,0,2
+Hyundai,Tucson,2021,Spark Plug Set,63MYTRWB90TXJXE20,SPA-HY2021-103,Engine,Used,B,Normal,165,294,40,0,7
+Kia,Optima,2016,Timing Belt Kit,1C4H7CP0LMNUH1K4M,TIM-KI2016-104,Engine,Refurbished,A,Rare,310,547,6,0,6
+BMW,X3,2022,Ignition Coil,E0S23S3RXETNF4PZ4,IGN-BM2022-105,Electrical,Used,B,Normal,432,653,22,0,4
+Honda,CR-V,2020,Water Pump,9VFJ0BBF92PN4J6X6,WAT-HO2020-106,Cooling,New,A,Normal,256,467,35,0,4
+Chevrolet,Silverado,2018,Strut Assembly,BW2DJE5KUUAPKSSBL,STR-CH2018-107,Suspension,Used,A,Rare,149,264,25,0,2
+Toyota,RAV4,2010,Headlight Assembly,LJUKAZV90DD1HKPKB,HEA-TO2010-108,Lighting,New,A,Limited,321,378,26,0,1
+Hyundai,Tucson,2015,Air Filter,CGVHP06C2J1XLU4SN,AIR-HY2015-109,Engine,Refurbished,A,Normal,188,366,7,0,2
+Hyundai,Sonata,2016,CV Axle,R7XESJ6FHY0BWV4VT,CV -HY2016-110,Drivetrain,Used,C,Rare,213,405,35,0,3
+Honda,Civic,2022,Starter Motor,6Y2GZTSVBUZ3ESYEK,STA-HO2022-111,Electrical,New,A,Limited,210,358,5,0,3
+Hyundai,Elantra,2022,Oxygen Sensor,FFWR631JDGBDYPCUW,OXY-HY2022-112,Engine,Refurbished,A,Rare,107,164,36,0,9
+Toyota,Highlander,2013,Fuel Injector,PNS2P6WM0SZ0T1E74,FUE-TO2013-113,Fuel,Used,B,Normal,92,176,32,0,6
+Honda,Civic,2019,Battery,NHG6Y1B0XPH23UB6V,BAT-HO2019-114,Electrical,New,A,Normal,458,563,7,0,6
+BMW,5 Series,2015,Battery,8JPZ25TSRC99LP8S6,BAT-BM2015-115,Electrical,Used,B,Normal,255,381,29,0,1
+Chevrolet,Equinox,2011,Air Filter,H1TB37CJ8X371X8LH,AIR-CH2011-116,Engine,Refurbished,C,Rare,406,472,17,0,4
+Hyundai,Elantra,2020,AC Compressor,UH1VCVRXBLVJV0PYA,AC -HY2020-117,HVAC,Used,A,Rare,244,440,25,0,7
+Toyota,Corolla,2010,Wheel Bearing,5ZSMSF9J5AZMUEW8M,WHE-TO2010-118,Drivetrain,Used,B,Limited,109,204,15,0,6
+Honda,CR-V,2019,Strut Assembly,4PV7HL17N3DTPPPA7,STR-HO2019-119,Suspension,Refurbished,C,Limited,134,224,37,0,7
+Nissan,Altima,2019,Strut Assembly,F027RTKF8L9YL8RLG,STR-NI2019-120,Suspension,Used,C,Normal,125,221,14,0,5
+BMW,X3,2019,Oil Filter,16904MYBCN84MS1JV,OIL-BM2019-121,Engine,New,A,Limited,62,86,16,0,3
+Kia,Sorento,2021,Air Filter,1SNT5VH8C6X8TDM5T,AIR-KI2021-122,Engine,Used,B,Rare,162,305,28,0,5
+Chevrolet,Malibu,2022,Brake Pads,JA381F94SFHC7U15P,BRA-CH2022-123,Brakes,Used,C,Rare,144,261,29,0,9
+Chevrolet,Cruze,2016,Oxygen Sensor,8X31P8FWJXF6C7B8H,OXY-CH2016-124,Engine,Refurbished,C,Rare,133,182,39,0,8
+Hyundai,Tucson,2011,Oil Filter,7WTNRT2PTYMWYPYJV,OIL-HY2011-125,Engine,Used,C,Limited,347,440,17,0,1
+Kia,Optima,2021,Brake Rotor,9NDXB8ADMKU4RP16P,BRA-KI2021-126,Brakes,Refurbished,A,Normal,388,752,9,0,5
+Toyota,Highlander,2013,Fuel Pump,9RND2PZ31ZFELL8N0,FUE-TO2013-127,Fuel,New,A,Limited,421,529,17,0,8
+Kia,Sportage,2019,Brake Pads,L1YVK5SV6NRUY5HN7,BRA-KI2019-128,Brakes,Refurbished,C,Normal,202,285,27,0,6
+Mercedes,C-Class,2021,Shock Absorber,B4LSK651MA37HB2UW,SHO-ME2021-129,Suspension,New,A,Normal,67,111,24,0,5
+Ford,Escape,2014,CV Axle,TLRR4D9BNT4YF7YXG,CV -FO2014-130,Drivetrain,Used,A,Limited,351,508,18,0,8
+Hyundai,Elantra,2015,Fuel Pump,K0WWAMAD7DN8YWZ30,FUE-HY2015-131,Fuel,Refurbished,C,Normal,129,195,26,0,10
+Mercedes,C-Class,2012,AC Compressor,AAW4KME1KKA2KFGKV,AC -ME2012-132,HVAC,New,C,Normal,103,153,34,0,5
+Hyundai,Sonata,2012,Shock Absorber,2W81VEWYNR2C21Y6R,SHO-HY2012-133,Suspension,New,B,Rare,36,43,37,0,7
+BMW,3 Series,2018,Alternator,EKZVAT2W7JBPDTDLG,ALT-BM2018-134,Electrical,New,A,Normal,106,137,34,0,3
+Chevrolet,Malibu,2015,Brake Rotor,8GZE6MKRNH452SEP9,BRA-CH2015-135,Brakes,Used,C,Limited,125,157,29,0,5
+Chevrolet,Cruze,2023,Brake Pads,A3L9WNNEDWVAA98Z4,BRA-CH2023-136,Brakes,Used,B,Normal,352,537,30,0,4
+Ford,Focus,2023,Radiator,MNCKE6JTEHCZDZDHV,RAD-FO2023-137,Cooling,Used,A,Rare,448,602,16,0,5
+Honda,CR-V,2013,Power Steering Pump,4UUC4J7BPBZ28G478,POW-HO2013-138,Steering,Used,A,Normal,62,75,9,0,1
+BMW,3 Series,2023,Battery,GH080VZ6D7LVXA08Z,BAT-BM2023-139,Electrical,Refurbished,C,Rare,52,70,10,0,4
+BMW,X3,2023,Starter Motor,FXJJPYZPK35AMX8DS,STA-BM2023-140,Electrical,New,A,Limited,459,659,10,0,9
+Chevrolet,Equinox,2021,Radiator,AY53CR9TRB8YU92SW,RAD-CH2021-141,Cooling,Used,B,Limited,284,397,8,0,7
+Hyundai,Tucson,2023,Muffler,BSDKNMU02GP5MWYEA,MUF-HY2023-142,Exhaust,New,A,Normal,293,391,20,0,3
+Nissan,Sentra,2021,Water Pump,WF642B7MG6EBYMUT9,WAT-NI2021-143,Cooling,Refurbished,A,Rare,170,249,5,0,1
+Kia,Optima,2010,Oil Filter,WT5R2YY6KH80TCGFU,OIL-KI2010-144,Engine,New,B,Normal,229,381,23,0,9
+Mercedes,GLC,2012,Fuel Pump,PH9BHGZ1BBYN4RD6K,FUE-ME2012-145,Fuel,Used,C,Normal,336,558,36,0,6
+Kia,Sorento,2012,Oxygen Sensor,ZTW2FXLZXXMWB2G0D,OXY-KI2012-146,Engine,New,B,Limited,368,652,3,0,3
+Toyota,RAV4,2015,Fuel Injector,BKXCVP975FA3AMGC0,FUE-TO2015-147,Fuel,New,C,Normal,190,346,6,0,2
+Ford,Explorer,2018,Oxygen Sensor,6CYVUPHE97RR9P38S,OXY-FO2018-148,Engine,Used,B,Limited,136,230,23,0,4
+Nissan,Sentra,2014,Water Pump,V559N5NNDW1X5LH6P,WAT-NI2014-149,Cooling,Used,C,Normal,181,336,8,0,9
+Hyundai,Sonata,2016,Tail Light Assembly,FJW6UL4CXY8GEVUDP,TAI-HY2016-150,Lighting,New,C,Rare,59,89,26,0,10
+Chevrolet,Equinox,2012,AC Compressor,CRYVZG6AR6YCJ3YWW,AC -CH2012-151,HVAC,New,C,Limited,94,157,1,0,8
+Toyota,RAV4,2010,Power Steering Pump,XRUD1NBDG4XY17L1C,POW-TO2010-152,Steering,New,A,Normal,288,477,33,0,6
+Toyota,Corolla,2023,Tail Light Assembly,XPUBSK0FFXN25DEDA,TAI-TO2023-153,Lighting,Refurbished,C,Limited,257,359,8,0,7
+Kia,Sorento,2019,Timing Belt Kit,HMUSHK7EMV3CYJ087,TIM-KI2019-154,Engine,Refurbished,C,Normal,234,442,34,0,4
+Nissan,Altima,2020,Headlight Assembly,HUANB8L8C1FYHEGS9,HEA-NI2020-155,Lighting,Refurbished,B,Limited,417,533,29,0,10
+Hyundai,Tucson,2012,Water Pump,GZE1SXMMU74FEVDHY,WAT-HY2012-156,Cooling,Used,B,Rare,382,617,29,0,5
+Chevrolet,Cruze,2023,Oxygen Sensor,U95DB2LAGL9LKZ8UW,OXY-CH2023-157,Engine,New,B,Rare,308,394,18,0,7
+Chevrolet,Malibu,2023,Spark Plug Set,S24024ZGPMD8NJ3U1,SPA-CH2023-158,Engine,Used,C,Rare,135,188,17,0,1
+Nissan,Sentra,2021,Strut Assembly,RW8F7A47NVD0YDW5X,STR-NI2021-159,Suspension,Used,A,Limited,340,526,6,0,9
+Ford,Explorer,2011,Water Pump,ZYTWK0S0XW4S6UVEX,WAT-FO2011-160,Cooling,Used,B,Limited,395,484,37,0,10
+Ford,Explorer,2020,Strut Assembly,DLURCN5L51J28U0UK,STR-FO2020-161,Suspension,New,C,Limited,300,514,6,0,9
+Toyota,RAV4,2018,Spark Plug Set,VSM8ESX32K9RW995A,SPA-TO2018-162,Engine,Refurbished,B,Rare,161,220,18,0,5
+Ford,Explorer,2017,Spark Plug Set,PEV2T3T122HHVUXE5,SPA-FO2017-163,Engine,Refurbished,C,Limited,260,350,37,0,2
+Chevrolet,Equinox,2013,Spark Plug Set,BPDN0F914LJNJEGWM,SPA-CH2013-164,Engine,Refurbished,A,Rare,302,421,9,0,4
+Ford,Focus,2019,Power Steering Pump,YFMY6GZ8PW4VU0BEJ,POW-FO2019-165,Steering,Used,C,Limited,171,265,8,0,4
+Chevrolet,Silverado,2012,Brake Rotor,UJB7CYN84C01L8FY2,BRA-CH2012-166,Brakes,Used,C,Limited,243,302,38,0,8
+Toyota,Camry,2016,Alternator,848WLU9ZXZL2T8KLW,ALT-TO2016-167,Electrical,Used,A,Normal,88,105,16,0,3
+Toyota,Camry,2012,Control Arm,A6Z31PAE04HS8G9AV,CON-TO2012-168,Suspension,New,A,Limited,309,578,10,0,6
+Nissan,Pathfinder,2014,AC Compressor,238EYKF9J3RJWPB82,AC -NI2014-169,HVAC,New,C,Limited,99,161,38,0,10
+Mercedes,GLC,2022,Brake Rotor,FRVD2SWU99U3D2T27,BRA-ME2022-170,Brakes,Used,A,Limited,169,281,15,0,1
+Ford,Focus,2022,Starter Motor,6FC181U9MBB4MRNTW,STA-FO2022-171,Electrical,Refurbished,C,Normal,390,590,36,0,6
+Chevrolet,Malibu,2010,Timing Belt Kit,4G1WLBY4VAEJ8RYFF,TIM-CH2010-172,Engine,New,C,Limited,237,380,35,0,7
+Kia,Sportage,2020,Air Filter,SW94NTU9F3N341R7V,AIR-KI2020-173,Engine,Used,C,Normal,280,490,11,0,8
+Kia,Sportage,2017,Shock Absorber,65N1WZUUHB19HNPM1,SHO-KI2017-174,Suspension,Used,A,Rare,68,91,4,0,9
+Honda,Civic,2014,Brake Rotor,ULYN46G2EBK1PJ4XR,BRA-HO2014-175,Brakes,Used,A,Rare,176,243,10,0,6
+Chevrolet,Silverado,2010,Air Filter,3GRF04B5KHKG2002W,AIR-CH2010-176,Engine,New,A,Normal,352,543,31,0,10
+Honda,CR-V,2012,Wheel Bearing,SER9E0F3PLSFDX7K4,WHE-HO2012-177,Drivetrain,New,C,Normal,234,363,23,0,6
+Chevrolet,Malibu,2014,Air Filter,YFN7AJ69RSP7TSDBX,AIR-CH2014-178,Engine,Used,B,Limited,328,383,32,0,4
+BMW,3 Series,2019,Water Pump,BM4DJBV00PL30G88U,WAT-BM2019-179,Cooling,Used,B,Normal,277,469,31,0,3
+Nissan,Sentra,2020,Water Pump,N7U4TAPLZTF3ZH4X8,WAT-NI2020-180,Cooling,Refurbished,A,Normal,138,177,14,0,10
+Toyota,RAV4,2017,Headlight Assembly,RUTMVC1CRY22KCRFG,HEA-TO2017-181,Lighting,Refurbished,C,Rare,438,634,35,0,10
+Toyota,Highlander,2017,Headlight Assembly,346WY0YJ2PS63YGVW,HEA-TO2017-182,Lighting,New,C,Rare,406,553,36,0,8
+Honda,CR-V,2012,Power Steering Pump,7DZ1NSX39PKDVFRSF,POW-HO2012-183,Steering,Refurbished,B,Rare,113,163,15,0,2
+Kia,Optima,2019,CV Axle,78TBLF1VP6R2ZX13C,CV -KI2019-184,Drivetrain,Refurbished,C,Normal,334,443,20,0,4
+Kia,Sportage,2023,Spark Plug Set,Y16FFLW3EZDK3CSKN,SPA-KI2023-185,Engine,New,C,Rare,181,358,30,0,7
+Hyundai,Sonata,2016,Brake Rotor,DTJN4PRBESH71MVRK,BRA-HY2016-186,Brakes,New,B,Normal,45,68,25,0,6
+Honda,Accord,2016,Tail Light Assembly,BCSURG4AZK8T01UJK,TAI-HO2016-187,Lighting,New,C,Rare,254,402,36,0,6
+Kia,Sorento,2016,Tail Light Assembly,VLGWL4JGAYS5FXA7B,TAI-KI2016-188,Lighting,Used,B,Rare,145,276,13,0,4
+Toyota,Corolla,2018,Fuel Injector,U676D4AP91W69LKYV,FUE-TO2018-189,Fuel,New,B,Rare,254,412,15,0,5
+Kia,Sorento,2012,Battery,04EXVHVAMD1JKD882,BAT-KI2012-190,Electrical,Refurbished,C,Normal,128,178,3,0,2
+Ford,F-150,2021,Wheel Bearing,NJKDU1HCZR3GFCZCZ,WHE-FO2021-191,Drivetrain,Refurbished,A,Normal,310,525,20,0,2
+Kia,Sportage,2020,Spark Plug Set,UADR8BJU3DX3MD6UY,SPA-KI2020-192,Engine,New,A,Normal,170,272,11,0,1
+Chevrolet,Cruze,2012,Water Pump,HB338FH0R8J0JJBVG,WAT-CH2012-193,Cooling,Refurbished,B,Normal,60,87,18,0,5
+Mercedes,C-Class,2018,Brake Rotor,RNA26PUYHATKTA7VU,BRA-ME2018-194,Brakes,New,C,Rare,346,554,26,0,8
+Mercedes,E-Class,2010,Oxygen Sensor,JR2E4HWK8MA611PUE,OXY-ME2010-195,Engine,Used,A,Normal,344,618,26,0,5
+Chevrolet,Silverado,2012,Brake Rotor,27RPX9F9C7S1NYLZH,BRA-CH2012-196,Brakes,Refurbished,C,Normal,341,558,24,0,3
+BMW,X3,2012,Ignition Coil,HK9M5T2Z4BTX3D8PC,IGN-BM2012-197,Electrical,Refurbished,C,Normal,167,325,33,0,1
+Honda,Pilot,2018,Fuel Pump,01JEWDYNWLFFH54N0,FUE-HO2018-198,Fuel,Used,A,Limited,35,47,37,0,3
+Mercedes,C-Class,2020,CV Axle,P8AYTZ4XH802NP9AX,CV -ME2020-199,Drivetrain,New,B,Rare,298,361,1,0,8
+Toyota,Corolla,2022,CV Axle,PSR8HD736A36E70DD,CV -TO2022-200,Drivetrain,Used,B,Rare,173,290,40,0,9
+Toyota,Camry,2023,Fuel Pump,VV8NGRXKBP3MD9L9P,FUE-TO2023-201,Fuel,Refurbished,B,Limited,446,601,18,0,4
+Chevrolet,Cruze,2011,Headlight Assembly,YPA72VFJ93Z5AD42K,HEA-CH2011-202,Lighting,Refurbished,B,Limited,25,49,23,0,2
+Toyota,Corolla,2019,Muffler,RM0W5LVPZ426KCA7X,MUF-TO2019-203,Exhaust,Refurbished,A,Limited,302,349,31,0,10
+Hyundai,Sonata,2013,Ignition Coil,41ZBVZY059EDHHYM3,IGN-HY2013-204,Electrical,Refurbished,B,Rare,306,434,1,0,10
+Hyundai,Elantra,2019,Battery,MW3GJ35VVVEEMNKSD,BAT-HY2019-205,Electrical,Refurbished,C,Normal,378,509,35,0,3
+Honda,Accord,2015,AC Compressor,A36L1VWS46EKHN6WP,AC -HO2015-206,HVAC,Refurbished,C,Limited,226,337,37,0,5
+Chevrolet,Equinox,2014,Muffler,7314C7NVJCZDX43RT,MUF-CH2014-207,Exhaust,Refurbished,C,Rare,423,712,32,0,6
+Chevrolet,Silverado,2018,AC Compressor,9RBHNCUURRH30XTTS,AC -CH2018-208,HVAC,New,A,Rare,425,552,26,0,1
+Hyundai,Tucson,2014,Air Filter,63XV98UHJ8NPS3TKU,AIR-HY2014-209,Engine,Used,A,Limited,18,31,30,0,7
+Ford,F-150,2017,Oil Filter,02TNYE103DN3CC6J8,OIL-FO2017-210,Engine,Refurbished,A,Normal,322,426,32,0,5
+BMW,3 Series,2019,Control Arm,JUH8TC5KNKHZLEH6C,CON-BM2019-211,Suspension,Refurbished,C,Rare,170,234,16,0,3
+Toyota,RAV4,2014,Air Filter,0BLS291ZJ7LCPDJJ1,AIR-TO2014-212,Engine,Refurbished,B,Rare,350,471,33,0,2
+Kia,Sorento,2023,Fuel Injector,NLGBG5LF4EY8651UZ,FUE-KI2023-213,Fuel,Refurbished,A,Normal,329,573,6,0,9
+Honda,CR-V,2021,Starter Motor,R5Z7X669HSUNEL8PX,STA-HO2021-214,Electrical,Refurbished,B,Normal,54,94,15,0,7
+Honda,CR-V,2017,Alternator,1HG2HWWX61UXR7P30,ALT-HO2017-215,Electrical,New,A,Limited,60,96,5,0,8
+Honda,Accord,2018,Control Arm,VTVCM1YPSNV286FHC,CON-HO2018-216,Suspension,New,B,Rare,263,363,8,0,3
+Hyundai,Sonata,2019,Power Steering Pump,7X3WNNT4BSFX0D0M0,POW-HY2019-217,Steering,Used,C,Limited,341,482,17,0,7
+Chevrolet,Malibu,2017,Control Arm,2391YK6648GLWZHPR,CON-CH2017-218,Suspension,New,A,Limited,274,471,25,0,6
+Honda,CR-V,2022,Oxygen Sensor,KDPTKN744UY0TJDKP,OXY-HO2022-219,Engine,Refurbished,A,Rare,239,346,32,0,1
+Kia,Sorento,2019,Water Pump,DBMWVEVY23D4WRX1U,WAT-KI2019-220,Cooling,Refurbished,A,Limited,227,390,1,0,6
+Ford,F-150,2014,Starter Motor,PB22XMEPR0G7E1DAK,STA-FO2014-221,Electrical,Used,C,Rare,40,60,10,0,10
+Chevrolet,Equinox,2020,Starter Motor,2S960UNH4NG4VGV71,STA-CH2020-222,Electrical,Used,C,Normal,268,537,6,0,6
+Mercedes,GLC,2013,Starter Motor,D3B50NWHPC8SKS416,STA-ME2013-223,Electrical,Used,B,Limited,44,59,12,0,7
+Ford,F-150,2016,AC Compressor,GUW2YSTG4T88LPSWE,AC -FO2016-224,HVAC,New,B,Normal,435,554,30,0,10
+Hyundai,Tucson,2020,Timing Belt Kit,D0S6XZW48JD620P0L,TIM-HY2020-225,Engine,Refurbished,C,Normal,228,375,33,0,5
+Mercedes,E-Class,2015,Alternator,9XR6CGV4GN2JSZXUY,ALT-ME2015-226,Electrical,Refurbished,B,Normal,79,151,35,0,5
+Kia,Optima,2021,Water Pump,J43J87M5HUX00THMT,WAT-KI2021-227,Cooling,Used,A,Normal,331,482,14,0,6
+Mercedes,E-Class,2020,Radiator,PD2BFHLAA52VA7WSA,RAD-ME2020-228,Cooling,Refurbished,C,Rare,264,324,16,0,2
+Ford,Explorer,2018,Oxygen Sensor,1BUWP4VKV2ZVB6UZU,OXY-FO2018-229,Engine,Refurbished,A,Rare,223,329,31,0,4
+Nissan,Altima,2020,Air Filter,LBMSUWZ1EZF0UT8M4,AIR-NI2020-230,Engine,New,C,Rare,93,138,36,0,2
+Ford,Explorer,2021,Starter Motor,P9T3FZALRCPTUGL47,STA-FO2021-231,Electrical,New,C,Limited,241,362,12,0,10
+Honda,CR-V,2023,Tail Light Assembly,LUZNYT9BLHE2N0KXG,TAI-HO2023-232,Lighting,Used,A,Normal,24,39,40,0,4
+Chevrolet,Cruze,2011,Battery,6WZK4MF91BRLVJMB7,BAT-CH2011-233,Electrical,Used,A,Limited,255,353,27,0,8
+Honda,CR-V,2021,Shock Absorber,A5FE15DH8LVXWT3GS,SHO-HO2021-234,Suspension,Used,B,Limited,195,390,23,0,6
+Nissan,Altima,2022,Wheel Bearing,A5782GN660RZYTCLF,WHE-NI2022-235,Drivetrain,Refurbished,A,Limited,44,77,38,0,1
+Ford,Escape,2012,Battery,B7L4YSDDTF5SEHF8K,BAT-FO2012-236,Electrical,Used,B,Limited,190,334,5,0,2
+Nissan,Sentra,2019,Timing Belt Kit,0CAZAVLPZU6R25AXA,TIM-NI2019-237,Engine,Refurbished,B,Limited,219,353,3,0,2
+Nissan,Sentra,2023,Radiator,1VR8L5K5V90CWVV11,RAD-NI2023-238,Cooling,Refurbished,A,Limited,218,393,10,0,4
+Honda,CR-V,2023,Radiator,AS22GG0DVLACZDZS3,RAD-HO2023-239,Cooling,Refurbished,C,Rare,80,147,7,0,1
+Ford,Focus,2019,Ignition Coil,LYU20194RKATY6XER,IGN-FO2019-240,Electrical,New,B,Rare,107,160,5,0,3
+Nissan,Rogue,2014,AC Compressor,964BP3LRYS9RE210U,AC -NI2014-241,HVAC,Refurbished,A,Normal,37,52,11,0,8
+BMW,5 Series,2023,Air Filter,YA6AU673RCEAR9F2D,AIR-BM2023-242,Engine,Used,C,Normal,457,644,13,0,3
+Toyota,Corolla,2022,Spark Plug Set,TBT5GMXUNR26V3DP8,SPA-TO2022-243,Engine,Refurbished,C,Rare,144,184,31,0,3
+Nissan,Pathfinder,2011,Brake Pads,B5EPMA6XS7JUZ1524,BRA-NI2011-244,Brakes,New,C,Normal,260,447,9,0,6
+BMW,X3,2012,Battery,A2NK7BSRRVH2G6P11,BAT-BM2012-245,Electrical,New,A,Rare,23,36,21,0,9
+BMW,5 Series,2010,Oil Filter,95UBNHPMH48RJHYFX,OIL-BM2010-246,Engine,Used,B,Limited,135,176,26,0,8
+BMW,3 Series,2012,Timing Belt Kit,H4WMGZC9JVNLDVH3B,TIM-BM2012-247,Engine,Refurbished,C,Normal,290,412,32,0,6
+BMW,3 Series,2018,AC Compressor,EVDFN7WL2TJVGEZ0V,AC -BM2018-248,HVAC,Refurbished,C,Normal,296,525,37,0,4
+BMW,X3,2016,Battery,TSEF6RAK731CK6B6D,BAT-BM2016-249,Electrical,Used,C,Normal,370,654,1,0,1
+Nissan,Sentra,2013,Wheel Bearing,LNDNDZ694H1NHEMKZ,WHE-NI2013-250,Drivetrain,Used,B,Limited,319,535,8,0,4
+Nissan,Pathfinder,2020,Fuel Injector,13XE6VBNWNNZK0LS5,FUE-NI2020-251,Fuel,New,A,Rare,58,83,21,0,1
+Toyota,Camry,2020,Headlight Assembly,ZLKBR4UCPAFH4549M,HEA-TO2020-252,Lighting,Refurbished,A,Limited,223,358,12,0,3
+Honda,Civic,2017,Wheel Bearing,21EKNTA8JRDJALPCS,WHE-HO2017-253,Drivetrain,New,C,Rare,97,177,36,0,10
+BMW,3 Series,2010,Wheel Bearing,3TEGF1CXG17F955M9,WHE-BM2010-254,Drivetrain,New,C,Normal,70,96,38,0,1
+BMW,5 Series,2018,Oil Filter,FAJWUJ5S57KAR2K45,OIL-BM2018-255,Engine,New,B,Normal,153,299,8,0,4
+Honda,CR-V,2016,Power Steering Pump,3STFDRDWY1CM3GRVE,POW-HO2016-256,Steering,Used,C,Normal,179,294,11,0,4
+BMW,5 Series,2014,Air Filter,YWLA1PVDPJH04BYFL,AIR-BM2014-257,Engine,New,C,Limited,258,324,25,0,3
+Honda,Civic,2014,Brake Rotor,F2EW509HXUY4VGN9S,BRA-HO2014-258,Brakes,Used,C,Rare,265,428,31,0,4
+Nissan,Altima,2023,Wheel Bearing,9VJRK0KENU9PJX7C6,WHE-NI2023-259,Drivetrain,Used,C,Limited,125,154,5,0,1
+Chevrolet,Cruze,2014,Ignition Coil,RANKS4J3ULZ1H2AEW,IGN-CH2014-260,Electrical,Refurbished,B,Limited,43,71,19,0,3
+Chevrolet,Cruze,2016,Starter Motor,45SSVEA8DCNC0WSCC,STA-CH2016-261,Electrical,Used,A,Normal,68,83,23,0,3
+Nissan,Altima,2021,Tail Light Assembly,04ZGGD6KB3K1FTPDK,TAI-NI2021-262,Lighting,Refurbished,B,Normal,85,157,25,0,7
+Kia,Sorento,2010,Wheel Bearing,X9MDKMLB2G62AJAYC,WHE-KI2010-263,Drivetrain,Used,B,Rare,286,375,30,0,9
+Nissan,Sentra,2021,Tail Light Assembly,G4HDL4SBYUWSJB2MN,TAI-NI2021-264,Lighting,New,A,Normal,311,400,7,0,3
+Mercedes,E-Class,2013,AC Compressor,LTB0GDDV3582XLHRR,AC -ME2013-265,HVAC,Refurbished,B,Rare,227,316,4,0,6
+Kia,Optima,2019,Power Steering Pump,HPLV87ZH7GK4V7BJ7,POW-KI2019-266,Steering,Used,B,Limited,216,323,20,0,6
+Honda,Civic,2022,Alternator,HTFSN0PF0A0JN0980,ALT-HO2022-267,Electrical,Used,B,Normal,321,637,36,0,8
+Hyundai,Elantra,2013,Oil Filter,899LES1AFGM5W0LXM,OIL-HY2013-268,Engine,Refurbished,C,Limited,316,384,10,0,9
+Hyundai,Elantra,2022,Muffler,V92DFM0TV4W7A9ER0,MUF-HY2022-269,Exhaust,Refurbished,A,Normal,441,672,13,0,6
+Ford,F-150,2012,Oil Filter,8H33A1R4BSYBHWH7L,OIL-FO2012-270,Engine,Used,A,Limited,322,453,8,0,7
+Honda,Accord,2012,Fuel Pump,0JXXMF9EY0V7XTEYX,FUE-HO2012-271,Fuel,New,B,Rare,79,128,17,0,4
+Toyota,Highlander,2021,Air Filter,YTPR114AJ0USXHDXB,AIR-TO2021-272,Engine,New,B,Normal,313,573,18,0,5
+Ford,Explorer,2011,Battery,3LHN1V4S8HTT9GES0,BAT-FO2011-273,Electrical,Used,C,Rare,48,79,19,0,1
+Toyota,Corolla,2023,Control Arm,JSSB80WA72WCTVN03,CON-TO2023-274,Suspension,New,C,Normal,260,383,7,0,9
+Hyundai,Elantra,2019,Headlight Assembly,H21T95HU0ERWMMLC4,HEA-HY2019-275,Lighting,Refurbished,A,Limited,87,104,15,0,3
+Ford,Focus,2019,Strut Assembly,CBALU8B1K00TKFBHY,STR-FO2019-276,Suspension,Refurbished,C,Rare,81,144,9,0,10
+Kia,Sorento,2023,Ignition Coil,3AHHHG2CCRU99U3AA,IGN-KI2023-277,Electrical,Used,A,Normal,241,487,6,0,3
+Mercedes,GLC,2016,Oxygen Sensor,2W25P2VHHMZZ3T9NA,OXY-ME2016-278,Engine,New,A,Limited,114,188,21,0,9
+Chevrolet,Equinox,2013,Air Filter,FMJC1LNXRPFUUH6KM,AIR-CH2013-279,Engine,New,B,Normal,236,360,29,0,5
+Ford,F-150,2016,Fuel Pump,G75N7NEXWFHY4GPV0,FUE-FO2016-280,Fuel,New,B,Limited,42,60,28,0,9
+Hyundai,Elantra,2023,Brake Pads,C7AU817DULR05N04N,BRA-HY2023-281,Brakes,Refurbished,C,Rare,298,497,26,0,1
+Toyota,Corolla,2016,Fuel Injector,32SHLXZF7NEV6AZY7,FUE-TO2016-282,Fuel,Refurbished,B,Limited,58,93,38,0,1
+Ford,Escape,2021,Brake Pads,5EMXEJ2MFYHP2KMJ0,BRA-FO2021-283,Brakes,Refurbished,B,Rare,249,511,29,0,7
+Chevrolet,Malibu,2015,Spark Plug Set,VLXVN6S1L9A8C5K2K,SPA-CH2015-284,Engine,Used,A,Normal,179,245,28,0,5
+Hyundai,Elantra,2011,Headlight Assembly,GWEYK4377JWJKZX9D,HEA-HY2011-285,Lighting,New,A,Normal,330,560,23,0,9
+Ford,Explorer,2012,Tail Light Assembly,9KFCXYTXLGFEDSY8M,TAI-FO2012-286,Lighting,Used,A,Normal,198,287,14,0,2
+Mercedes,E-Class,2019,Brake Pads,W0S4VUJ5NLJF0U1N5,BRA-ME2019-287,Brakes,Used,B,Normal,159,248,18,0,5
+Toyota,Highlander,2018,Brake Pads,138RCY11AXYHNC4NB,BRA-TO2018-288,Brakes,Used,A,Normal,80,115,21,0,6
+Mercedes,E-Class,2019,Muffler,HTS68XNWJBEJK6GX4,MUF-ME2019-289,Exhaust,Used,B,Rare,86,123,1,0,6
+Kia,Sportage,2017,Timing Belt Kit,KYF4D6XLW184JECS6,TIM-KI2017-290,Engine,New,C,Limited,259,394,7,0,6
+Nissan,Sentra,2021,Strut Assembly,SHL2LJ6HGW7XRP03B,STR-NI2021-291,Suspension,Used,C,Limited,191,233,40,0,6
+BMW,5 Series,2020,Oil Filter,F29YMZNLF3G8BGE7S,OIL-BM2020-292,Engine,Used,B,Normal,292,501,25,0,6
+Chevrolet,Malibu,2021,CV Axle,M9XUDVCW1U7RSZWHU,CV -CH2021-293,Drivetrain,Refurbished,A,Limited,271,468,11,0,9
+BMW,5 Series,2015,Spark Plug Set,STL1ABKRUWJNXBNLV,SPA-BM2015-294,Engine,New,A,Limited,352,619,38,0,6
+BMW,3 Series,2015,Timing Belt Kit,W4DVD43DRRAH79KX4,TIM-BM2015-295,Engine,New,C,Limited,220,290,12,0,1
+Nissan,Sentra,2023,Muffler,VK63LW08RXRGHZ35H,MUF-NI2023-296,Exhaust,New,A,Rare,344,581,9,0,5
+Kia,Sportage,2021,Control Arm,KW4MVYLCDUP4NA2FW,CON-KI2021-297,Suspension,Used,A,Rare,37,72,32,0,10
+Chevrolet,Equinox,2013,Spark Plug Set,3RLS13FKPG6SDLKG3,SPA-CH2013-298,Engine,New,C,Limited,165,286,27,0,9
+Hyundai,Elantra,2013,Fuel Injector,MD62B8N2847ZTNGJW,FUE-HY2013-299,Fuel,Refurbished,B,Rare,292,461,40,0,4

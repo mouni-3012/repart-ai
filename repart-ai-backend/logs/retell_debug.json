@@ -1,0 +1,43 @@
+{
+  "ts": "2026-04-14T01:28:17.231152",
+  "from_number": "+18129691514",
+  "to_number": "+13479277840",
+  "status_code": 201,
+  "response": {
+    "call_id": "call_33f02d04bc512f10c9ed82c1b4a",
+    "call_type": "phone_call",
+    "agent_id": "agent_2f25b119765514b40734195256",
+    "agent_version": 16,
+    "agent_name": "Sarath_Repart_AI_Agent_Third_Copy",
+    "retell_llm_dynamic_variables": {
+      "lead_id": "L-1776130096",
+      "name": "Sarath Chandra",
+      "part_needed": "",
+      "vehicle": "",
+      "vin": "",
+      "notes": ""
+    },
+    "custom_sip_headers": {},
+    "call_status": "registered",
+    "latency": {},
+    "metadata": {
+      "lead_id": "L-1776130096",
+      "name": "Sarath Chandra",
+      "part_needed": "",
+      "vehicle": "",
+      "vin": "",
+      "notes": ""
+    },
+    "call_cost": {
+      "product_costs": [],
+      "total_duration_seconds": 0,
+      "total_duration_unit_price": 0,
+      "combined_cost": 0
+    },
+    "data_storage_setting": "everything",
+    "opt_in_signed_url": false,
+    "from_number": "+18129691514",
+    "to_number": "+13479277840",
+    "direction": "outbound"
+  }
+}

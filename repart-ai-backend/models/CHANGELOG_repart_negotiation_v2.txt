@@ -1,0 +1,7 @@
+Updated negotiation to allow different final prices per customer while protecting profit.
+
+- Uses cost_price as true internal cost.
+- Floor price = max(cost_price*(1+min_margin_pct), cost_price+min_profit_abs, min_price).
+- Counteroffers adapt to customer_offer + round_number + urgency (more realistic).
+- Backend accepts both payload formats (wrapped args or args-only).
+- Supports optional last_agent_offer input (pass previous counter from Retell).
