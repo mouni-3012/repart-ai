@@ -110,8 +110,9 @@ Advanced AI negotiation models
 
 👩‍💻 Author
 
-Sarath Chandra Bhimineni 
-Mounika Sai Yaganti
-Afroz Mohd
-Nandini Sharma
+Sarath Chandra Bhimineni ,
+Mounika Sai Yaganti,
+Afroz Mohd,
+Nandini Sharma,
+
 Montclair State University
